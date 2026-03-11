@@ -1,7 +1,6 @@
 # Abstract
 
 遊戲名稱：Twin Shot
-![](twinshot.jpg)
 
 組員：
 
@@ -12,6 +11,8 @@
 
 《Twin Shot》是一款遊戲機台射擊遊戲，玩家要使用弓箭來抵禦入侵者，保衛家園。大概會做三關。希望能做完。
 影面參考: https://www.youtube.com/watch?v=HlvRMhk2_CE
+
+![](twinshot.jpg)
 
 # Development timeline
 
